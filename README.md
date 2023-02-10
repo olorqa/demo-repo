@@ -1,3 +1,3 @@
 # Demo
 
-Get started with Git.
+Get started with Git!
